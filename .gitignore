@@ -1,7 +1,7 @@
+ecto.pdf
 *.dvi
 *.aux
 *.bbl
 *.out
-*.pdf
 *.log
 *.blg
